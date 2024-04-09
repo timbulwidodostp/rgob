@@ -1,6 +1,8 @@
 # rgob
 Generalized Oaxaca Blinder framework Use Package gwb/RGOB With (In) R Software
 
+https://www.youtube.com/watch?v=IXsv-hLoRrw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
